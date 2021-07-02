@@ -5,7 +5,7 @@ Analyzing the various machine learning algorithms and finding the best to predic
 ## Overview of the steps involved:
 I will be using a number of different features about a person to predict whether they have heart disease or not. The independent variables are a patients different medical attributes and the dependent variable is whether or not they have heart disease. The various machine learning algorithms used for this model will be Logistic Regression, Decision Tree, Support Vector Machine and Random Forest. The scores of all these models will be compared by splitting the data into training and testing in an approximate 80:20 ratio. We will also tune the hyper parameters for all these models to yield the best results. After finding the best algorithm, various metrics will be explored to assure the accuracy of the algorithm. And finally conclude the best prediction model for our heart disease dataset.
 ## Machine Learing Algorithms Along with their Accuracies:
-Support Vector Machine: 0.7049180327868853
+Support Vector Machine: 0.7049180327868853<br>
 K-Nearest Neighbours:   0.7540983606557377
 Decision Tree:          0.8524590163934420
 Random Forest:          0.8688524590163934
